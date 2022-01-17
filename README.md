@@ -5,3 +5,9 @@ root
   ∟ server
       ∟ client
 ```
+### [go-git](https://github.com/fruworg/go-git/)
+Скрипт создаёт шаблон кода на go.
+```
+main.go
+go.mod
+```
