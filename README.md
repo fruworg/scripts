@@ -6,10 +6,12 @@ root
       ∟ client
 ```
 ### [go-git](https://github.com/fruworg/go-git/)
-Скрипт создаёт шаблон кода на go.
+Скрипт создаёт шаблон кода на go и коммитит его на Гитхаб.
 ```
-project
-  ∟ commit.sh
-  ∟ main.go
+repo
   ∟ go.mod
+  ∟ main.go
+  ∟ README.md
+  ∟ commit-repo.sh
 ```
+
