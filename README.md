@@ -8,6 +8,8 @@ root
 ### [go-git](https://github.com/fruworg/go-git/)
 Скрипт создаёт шаблон кода на go.
 ```
-main.go
-go.mod
+project
+  ∟ commit.sh
+  ∟ main.go
+  ∟ go.mod
 ```
