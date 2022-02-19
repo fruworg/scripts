@@ -5,6 +5,11 @@ root
   ∟ server
       ∟ client
 ```
+### [eth](https://github.com/fruworg/eth)
+Позволяет редактировать настройки сетевого интерфейса.
+```
+IP & Mask & Gateway & DNS
+```
 ### [go-git](https://github.com/fruworg/go-git)
 Создаёт шаблон кода на GO и коммитит его на Гитхаб.
 ```
