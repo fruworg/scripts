@@ -35,8 +35,8 @@ repo
 ```
 IWTM & ALD & Network
 ```
-### [eth](https://github.com/fruworg/eth)
-Позволяет редактировать настройки сетевого интерфейса.
+### [ad](https://github.com/fruworg/ad)
+Немного скриптов для настройки AD.
 ```
-IP & Mask & Gateway & DNS
+AD & Network
 ```
