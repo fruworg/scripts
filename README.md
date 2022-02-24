@@ -35,3 +35,8 @@ repo
 ```
 ПКМ -> Открыть с помощью -> sicp.sh
 ```
+### [astra](https://github.com/fruworg/astra)
+Немного скриптов для настройки Астры.
+```
+IWTM & ALD & Network
+```
